@@ -1,0 +1,798 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro P\\source\\repos\\School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\interfaces\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\interfaces\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\enums\\schoolgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\enums\\schoolgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\repositories\\classsubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\repositories\\classsubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\repositories\\interfaces\\iclasssubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\repositories\\interfaces\\iclasssubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\repositories\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\repositories\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\enums\\quarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\enums\\quarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\dtos\\gradedtos\\graderesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\dtos\\gradedtos\\graderesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\controllers\\classsubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\controllers\\classsubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\dtos\\gradedtos\\gradeentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\dtos\\gradedtos\\gradeentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\dtos\\gradedtos\\updategradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\dtos\\gradedtos\\updategradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\dtos\\gradedtos\\creategradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\dtos\\gradedtos\\creategradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\repositories\\interfaces\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\repositories\\interfaces\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\dtos\\businessdtos\\studentperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\dtos\\businessdtos\\studentperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\dtos\\gradedtos\\gradeentrysheetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\dtos\\gradedtos\\gradeentrysheetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\classsubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\classsubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\interfaces\\iclasssubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\interfaces\\iclasssubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\dtos\\studentdtos\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\dtos\\studentdtos\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\dtos\\studentdtos\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\dtos\\studentdtos\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\dtos\\studentdtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\dtos\\studentdtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\dtos\\auditlogresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\dtos\\auditlogresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\interfaces\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\interfaces\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|c:\\users\\pedro p\\source\\repos\\school\\school\\services\\interfaces\\isecretaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E2313F-3EF4-8415-74F7-1790EF692F9C}|School\\School.csproj|solutionrelative:school\\services\\interfaces\\isecretaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolGrade.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Enums\\SchoolGrade.cs",
+              "RelativeDocumentMoniker": "School\\Enums\\SchoolGrade.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Enums\\SchoolGrade.cs",
+              "RelativeToolTip": "School\\Enums\\SchoolGrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T14:55:58.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGradeService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\IGradeService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\Interfaces\\IGradeService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\IGradeService.cs",
+              "RelativeToolTip": "School\\Services\\Interfaces\\IGradeService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:21:04.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\GradeRepository.cs",
+              "RelativeDocumentMoniker": "School\\Repositories\\GradeRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\GradeRepository.cs",
+              "RelativeToolTip": "School\\Repositories\\GradeRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:02:10.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\GradeService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\GradeService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\GradeService.cs",
+              "RelativeToolTip": "School\\Services\\GradeService.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAswI8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T20:06:57.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "School\\Controllers\\GradeController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAArwJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:24:04.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\StudentService.cs",
+              "RelativeToolTip": "School\\Services\\StudentService.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAADwv5QAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T12:48:59.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuditController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\AuditController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\AuditController.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\AuditController.cs",
+              "RelativeToolTip": "School\\Controllers\\AuditController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:04:59.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "School\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:25:16.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "School\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:11:03.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "School\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T14:37:53.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClassSubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\Interfaces\\IClassSubjectRepository.cs",
+              "RelativeDocumentMoniker": "School\\Repositories\\Interfaces\\IClassSubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\Interfaces\\IClassSubjectRepository.cs",
+              "RelativeToolTip": "School\\Repositories\\Interfaces\\IClassSubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T20:26:19.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "School\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "School\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:01:49.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassSubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\ClassSubjectRepository.cs",
+              "RelativeDocumentMoniker": "School\\Repositories\\ClassSubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\ClassSubjectRepository.cs",
+              "RelativeToolTip": "School\\Repositories\\ClassSubjectRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T20:26:38.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "School\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "School\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:01:29.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "School\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Models\\Student.cs",
+              "RelativeToolTip": "School\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:11:01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "School\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:09:23.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\TeacherService.cs",
+              "RelativeToolTip": "School\\Services\\TeacherService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA3wDoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T12:50:20.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\Interfaces\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\ITeacherService.cs",
+              "RelativeToolTip": "School\\Services\\Interfaces\\ITeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:11:20.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "School\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "School\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T14:36:39.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\Interfaces\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "School\\Repositories\\Interfaces\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\Interfaces\\ITeacherRepository.cs",
+              "RelativeToolTip": "School\\Repositories\\Interfaces\\ITeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T14:46:48.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "School\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvzsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:11:47.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "School\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Models\\Teacher.cs",
+              "RelativeToolTip": "School\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T14:35:48.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GradeResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\GradeDtos\\GradeResponseDto.cs",
+              "RelativeDocumentMoniker": "School\\Dtos\\GradeDtos\\GradeResponseDto.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\GradeDtos\\GradeResponseDto.cs",
+              "RelativeToolTip": "School\\Dtos\\GradeDtos\\GradeResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T23:43:42.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GradeEntryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\GradeDtos\\GradeEntryDto.cs",
+              "RelativeDocumentMoniker": "School\\Dtos\\GradeDtos\\GradeEntryDto.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\GradeDtos\\GradeEntryDto.cs",
+              "RelativeToolTip": "School\\Dtos\\GradeDtos\\GradeEntryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T18:57:01.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "School\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:18:50.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Quarter.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Enums\\Quarter.cs",
+              "RelativeDocumentMoniker": "School\\Enums\\Quarter.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Enums\\Quarter.cs",
+              "RelativeToolTip": "School\\Enums\\Quarter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T23:53:58.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGradeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\Interfaces\\IGradeRepository.cs",
+              "RelativeDocumentMoniker": "School\\Repositories\\Interfaces\\IGradeRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Repositories\\Interfaces\\IGradeRepository.cs",
+              "RelativeToolTip": "School\\Repositories\\Interfaces\\IGradeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:02:04.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClassSubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\ClassSubjectController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\ClassSubjectController.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\ClassSubjectController.cs",
+              "RelativeToolTip": "School\\Controllers\\ClassSubjectController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswF0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:20:54.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateGradeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\GradeDtos\\CreateGradeDto.cs",
+              "RelativeDocumentMoniker": "School\\Dtos\\GradeDtos\\CreateGradeDto.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\GradeDtos\\CreateGradeDto.cs",
+              "RelativeToolTip": "School\\Dtos\\GradeDtos\\CreateGradeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T20:13:29.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateGradeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\GradeDtos\\UpdateGradeDto.cs",
+              "RelativeDocumentMoniker": "School\\Dtos\\GradeDtos\\UpdateGradeDto.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\GradeDtos\\UpdateGradeDto.cs",
+              "RelativeToolTip": "School\\Dtos\\GradeDtos\\UpdateGradeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T20:13:38.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentPerformanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\BusinessDtos\\StudentPerformanceDto.cs",
+              "RelativeDocumentMoniker": "School\\Dtos\\BusinessDtos\\StudentPerformanceDto.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\BusinessDtos\\StudentPerformanceDto.cs",
+              "RelativeToolTip": "School\\Dtos\\BusinessDtos\\StudentPerformanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:19:47.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GradeEntrySheetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\GradeDtos\\GradeEntrySheetDto.cs",
+              "RelativeDocumentMoniker": "School\\Dtos\\GradeDtos\\GradeEntrySheetDto.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\GradeDtos\\GradeEntrySheetDto.cs",
+              "RelativeToolTip": "School\\Dtos\\GradeDtos\\GradeEntrySheetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T18:59:57.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IClassSubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\IClassSubjectService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\Interfaces\\IClassSubjectService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\IClassSubjectService.cs",
+              "RelativeToolTip": "School\\Services\\Interfaces\\IClassSubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T12:39:40.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClassSubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\ClassSubjectService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\ClassSubjectService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\ClassSubjectService.cs",
+              "RelativeToolTip": "School\\Services\\ClassSubjectService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T12:59:53.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "School\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:19:25.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AuditLogResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\AuditLogResponseDto.cs",
+              "RelativeDocumentMoniker": "School\\Dtos\\AuditLogResponseDto.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\AuditLogResponseDto.cs",
+              "RelativeToolTip": "School\\Dtos\\AuditLogResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T19:16:11.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Program.cs",
+              "RelativeDocumentMoniker": "School\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Program.cs",
+              "RelativeToolTip": "School\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA/wHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T12:37:15.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AuditService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\AuditService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\AuditService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\AuditService.cs",
+              "RelativeToolTip": "School\\Services\\AuditService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T12:59:55.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\StudentDtos\\UpdateStudentDto.cs",
+              "RelativeDocumentMoniker": "School\\Dtos\\StudentDtos\\UpdateStudentDto.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\StudentDtos\\UpdateStudentDto.cs",
+              "RelativeToolTip": "School\\Dtos\\StudentDtos\\UpdateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T12:59:16.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\SubjectService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\SubjectService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\SubjectService.cs",
+              "RelativeToolTip": "School\\Services\\SubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:00:18.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StudentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\StudentDtos\\StudentResponseDto.cs",
+              "RelativeDocumentMoniker": "School\\Dtos\\StudentDtos\\StudentResponseDto.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\StudentDtos\\StudentResponseDto.cs",
+              "RelativeToolTip": "School\\Dtos\\StudentDtos\\StudentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T12:58:52.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\StudentDtos\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "School\\Dtos\\StudentDtos\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Dtos\\StudentDtos\\CreateStudentDto.cs",
+              "RelativeToolTip": "School\\Dtos\\StudentDtos\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T13:02:30.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "School\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "School\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:00:30.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "School\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "School\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwHMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T19:18:58.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ISubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\ISubjectService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\Interfaces\\ISubjectService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\ISubjectService.cs",
+              "RelativeToolTip": "School\\Services\\Interfaces\\ISubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:19:33.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "School\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Models\\AuditLog.cs",
+              "RelativeToolTip": "School\\Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T19:16:02.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IClassService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\IClassService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\Interfaces\\IClassService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\IClassService.cs",
+              "RelativeToolTip": "School\\Services\\Interfaces\\IClassService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:17:58.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ISecretaryService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\ISecretaryService.cs",
+              "RelativeDocumentMoniker": "School\\Services\\Interfaces\\ISecretaryService.cs",
+              "ToolTip": "C:\\Users\\Pedro P\\source\\repos\\School\\School\\Services\\Interfaces\\ISecretaryService.cs",
+              "RelativeToolTip": "School\\Services\\Interfaces\\ISecretaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T13:10:14.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
